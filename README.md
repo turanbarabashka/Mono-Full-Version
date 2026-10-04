@@ -236,4 +236,4 @@ This repository serves as the official landing page for Mono. The software is di
 **Get the most recent version of Mono today!**
 
 ---
-**Last updated:** 2026-10-03 21:54:07 UTC
+**Last updated:** 2026-10-04 00:14:37 UTC
